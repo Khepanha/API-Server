@@ -1,7 +1,7 @@
 {
   "development": {
     "username": "lens_of_reality",
-    "password": "{%lor2020%^postgresql*%}",
+    "password": "xxxxxxxx",
     "database": "vr_vocabulary",
     "host": "192.168.7.92",
     "dialect": "postgres",

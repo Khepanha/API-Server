@@ -2,7 +2,7 @@ var http = require('http');
 var express = require('express');
 var logger = require('morgan');
 var bodyParser = require('body-parser');
-var routes = require('./server/routes');
+const routes = require('./server/routes');
 
 const hostname = '127.0.0.1';
 const port = 3000;
